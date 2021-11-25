@@ -4,11 +4,26 @@
 
 ###### **DEV TEAM:** Karla Tolentino, Ruilai Zhang, Matthew Liu, Bella Leber-Smeaton
 
+<br />
+
 ## **Picnic Vic Description**
 
-#### **Client:** Parks Victoria - Victorian State Government
+> _Nothing is better than a picnic in Vic!_
+
+#### **Client:**
+
+Parks Victoria - Victorian State Government
 
 #### **Purpose:**
+
+In a post Covid world we now know more than ever that we need to connect with our friends and family, outdoors in the _real world_. We need to utilise our green open spaces to enrich our lives.<br />
+To meet calls and pressure that local councils and the State Government aren't providing enough green space, Parks Victoria are creating a new inner city park database. For small and large parks alike!<br />
+The **Picnic Vic** app provides detailed park amenity information to help facilitate a family picnic to a skate park hangout.<br /><br />
+**_A park is nothing without a picnic and nothing is better than a picnic in Vic!_** <br /><br />
+Want to reach peak Vic picnic? 🍷 + 🧀 = 🧺 <br/>
+The Picnic Vic app have teamed up with Victorian Wine and Cheese producers to pair your local park with local picnic produce. <br />
+_It doesn't get much Gouda than that._
+<br /><br />
 
 #### **Functionality / Features:**
 
@@ -19,7 +34,7 @@
 | Application and Data | Utilities  | DevOps  | Business Tools |
 | -------------------- | ---------- | ------- | -------------- |
 | HTML 5               | Postman    | GitHub  | Trello         |
-| CSS                  | JWT        | Git     | G Suite        |
+| CSS                  | JWT/Devise | Git     | G Suite        |
 | JavaScript ES6       | NPM        | VS Code | Discord        |
 | Rails                | Ruby Gems  |         | Figma          |
 | React                | Google API |         | Google Fonts   |
@@ -28,7 +43,8 @@
 | Heroku               |            |         |                |
 | Netlify              |            |         |                |
 |                      |            |         |                |
-|                      |            |         |                |
+
+<br />
 
 ## **Dataflow Diagram:**
 
