@@ -63,15 +63,17 @@ The problem that Glenn are two fold: <br />1. Finding the right park with right 
 ---
 
 ![image](./Resources/)
-**Who:** <br />
-**Age:** <br />
-**Occupation:** <br />
-**Nationality:** <br />
-**Income:** <br />
-**Religion:** <br />
-**Location:** <br />
-**Living circumstances:** <br />
+**Who:** Henry Williams<br />
+**Age:** 20 years old<br />
+**Occupation:** Student<br />
+**Nationality:** American<br />
+**Income:** Part-time job<br />
+**Religion:** Christian<br />
+**Location:** New York<br />
+**Living circumstances:** Currently live in a backpacker hotel<br />
 **What is the problem this Target Audience needs solving?**<br />
+1. Henry has very limited time in Melbourne, he don't have much time to take the process of trial and error.<br />
+2. Henry want to find parks that have good views and special architechture or hitorical statue etc. However, he don't have friends in melbourne to give him some valuable suggestions, his only option is google searching which is not convnient.<br />
 <br />
 
 ---
