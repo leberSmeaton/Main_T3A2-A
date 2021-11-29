@@ -29,6 +29,64 @@ _It doesn't get much Gouda than that._
 
 #### **Target Audience:**
 
+![The Novak Family picture](./Resources/TheNovaks.jpg)
+**Who:** The Novaks. 'The Nuclear Family, with dog'. Two parents. Two Children. One puppy. <br />
+**Age:** Parents are late twenties to late thirties, 28-38. One child is of primary school age 7, and one two year old. <br />
+**Occupation:** One stay at home parent, the other working 9-5. Children are young learners.<br />
+**Nationality:** Slovenian Australians.<br />
+**Income:** Lower Middle Class, one income of 80k/annum. <br />
+**Religion:** Non practicing/ 'lapsed Catholic'.<br />
+**Location:** Local resident. Elsternwick, 3185. South-Eastern Suburbs. <br />
+**Living circumstances:** Smaller townhouse with no garden.<br />
+**What is the problem this Target Audience needs solving?**<br />
+The Novaks have a young family and no backyard, so they spend a lot of their family time outside of the home to entertain their young children. They go for walks with their dog so they also need parks that allow for dogs and an off leash area. Picnics are a regular occurrence for the Novaks. <br />
+As a family they have a lot of needs that have to be met for an enjoyable picnic. Their number 1 problem is that most parks near them don't have toilet / change table facilities and a playground. They wish they had the ability to look this up so they don't have to arrive disappointed.
+Their ultimate park is one that has a toilet, cover from the sun, a playground and dog park. An 'all-in-one' park scenario. Their lower grade park might be one they take their dog to for a short morning walk. <br />
+
+---
+
+![image](./Resources/)
+**Who:** <br />
+**Age:** <br />
+**Occupation:** <br />
+**Nationality:** <br />
+**Income:** <br />
+**Religion:** <br />
+**Location:** <br />
+**Living circumstances:** <br />
+**What is the problem this Target Audience needs solving?**<br />
+<br />
+
+---
+
+![image](./Resources/)
+**Who:** <br />
+**Age:** <br />
+**Occupation:** <br />
+**Nationality:** <br />
+**Income:** <br />
+**Religion:** <br />
+**Location:** <br />
+**Living circumstances:** <br />
+**What is the problem this Target Audience needs solving?**<br />
+<br />
+
+---
+
+![image](./Resources/)
+**Who:** <br />
+**Age:** <br />
+**Occupation:** <br />
+**Nationality:** <br />
+**Income:** <br />
+**Religion:** <br />
+**Location:** <br />
+**Living circumstances:** <br />
+**What is the problem this Target Audience needs solving?**<br />
+<br />
+
+---
+
 #### **Tech Stack:**
 
 | Application and Data | Utilities  | DevOps  | Business Tools |
