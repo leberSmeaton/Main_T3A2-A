@@ -56,6 +56,26 @@ _It doesn't get much Gouda than that._
 
 <!-- Show 2 versions of user stories 'shows evidence of user story revision and refinement' -->
 
+### [Katja Novak](<https://www.figma.com/file/InWmz7kkpj2u7o86HhEdsl/User-personas-(Community)?node-id=0%3A1>)
+
+![Image one of Katja Novak user story](./Resources/UserStory_Katja_1.png)
+![Image two of Katja Novak user story](./Resources/UserStory_Katja_2.png)
+
+### []()
+
+![Image one of ](./Resources/)
+![Image two of ](./Resources/)
+
+### []()
+
+![Image one of ](./Resources/)
+![Image two of ](./Resources/)
+
+### []()
+
+![Image one of ](./Resources/)
+![Image two of ](./Resources/)
+
 ## **Device Wireframes:**
 
 <!-- Show 2 versions of your FIGMA wireframes -->
