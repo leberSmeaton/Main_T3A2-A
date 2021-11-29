@@ -125,7 +125,7 @@ The problem that Glenn are two fold: <br />1. Finding the right park with right 
 ### [Glenn B](https://www.figma.com/file/2DryqFWrEVPYJMFjB7luzn/A-user-persona?node-id=0%3A1)
 
 ![Image one of ](./Resources/userStory-glenn1.png)
-![Image two of ](./Resources/userStory-glenn2.png)
+![Image two of ](./Resources/userStory-glenn2.1.png)
 
 ### []()
 
