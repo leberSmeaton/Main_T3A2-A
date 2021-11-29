@@ -138,6 +138,13 @@ Their ultimate park is one that has a toilet, cover from the sun, a playground a
 
 <!-- Show 2 versions of your FIGMA wireframes -->
 
+### [Picnic Vic Wireframe View]()
+
+![Image one of Desktop](./Resources/)
+![Image one of Tablet](./Resources/)
+![Image one of Mobile](./Resources/)
+![Image one of 2nd Mobile](./Resources/)
+
 ## **Project Management:**
 
 <!-- State chosen standards and planning methodology -->
