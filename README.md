@@ -57,8 +57,8 @@ Their ultimate park is one that has a toilet, cover from the sun, a playground a
 **What is the problem this Target Audience needs solving?**<br />
 Glenn is a person in his mid 20s. With a small backyard at his rental, he will usually go out and explore the nearby park or reserve to get some fresh air. He is quite keen to visit and explore new places
 <br />
-The problem that Glenn are two fold: <br />1. Finding the right park with right facilities. Many times, he has tried to find information on the a particular park, only to find that park does not have the correct facilities.
-2.  Finding a different variety of parks. As someone who loves exploring, Glenn feels like that some parks feel that some parks around his area feel quite underwhelming, and would like to find a way to distinguish and filter out parks, based on what they have to offer
+The problem that Glenn are two fold: <br />1. Finding the right park with right facilities. Many times, he has tried to find information on the a particular park, only to find that park does not have the correct facilities. Glenn has run into this problem many times, especially when it comes to working with special needs children, whereby the park does not have a playground or toilet facilities. 
+2.  Finding a different variety of parks. As someone who loves exploring, Glenn feel that some parks around his area are quite underwhelming, and would like to find a way to distinguish and filter out parks, based on what they have to offer. 
 
 ---
 
