@@ -63,6 +63,7 @@ The problem that Glenn are two fold: <br />1. Finding the right park with right 
 ---
 
 ![image](./Resources/)
+<br />
 **Who:** Henry Williams<br />
 **Age:** 20 years old<br />
 **Occupation:** Student<br />
