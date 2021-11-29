@@ -70,7 +70,7 @@ The problem that Glenn are two fold: <br />1. Finding the right park with right 
 **Nationality:** American<br />
 **Income:** Part-time job<br />
 **Religion:** Christian<br />
-**Location:** New York<br />
+**Location:** New York, American<br />
 **Living circumstances:** Currently live in a backpacker hotel<br />
 **What is the problem this Target Audience needs solving?**<br />
 1. Henry has very limited time in Melbourne, he don't have much time to take the process of trial and error.<br />
