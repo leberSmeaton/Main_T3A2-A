@@ -34,7 +34,7 @@ _It doesn't get much Gouda than that._
 **Age:** Parents are late twenties to late thirties, 28-38. One child is of primary school age 7, and one two year old. <br />
 **Occupation:** One stay at home parent, the other working 9-5. Children are young learners.<br />
 **Nationality:** Slovenian Australians.<br />
-**Income:** Lower Middle Class, one income of 80k/annum. <br />
+**Income:** Lower middle Class, one income of 80k/annum. <br />
 **Religion:** Non practicing/ 'lapsed Catholic'.<br />
 **Location:** Local resident. Elsternwick, 3185. South-Eastern Suburbs. <br />
 **Living circumstances:** Smaller townhouse with no garden.<br />
@@ -45,30 +45,36 @@ Their ultimate park is one that has a toilet, cover from the sun, a playground a
 
 ---
 
-![image](./Resources/)
-**Who:** <br />
-**Age:** <br />
-**Occupation:** <br />
-**Nationality:** <br />
-**Income:** <br />
-**Religion:** <br />
-**Location:** <br />
-**Living circumstances:** <br />
+![Glenn B](./Resources/glenn.jpeg)
+**Who:**  Glenn B. Single male<br />
+**Age:** 25 years old<br />
+**Occupation:** Music teacher and support worker for special needs children. Living with another housemate<br />
+**Nationality:** Australian<br />
+**Income:** Lower middle class. Income approx. $50-60k per annum<br />
+**Religion:** Agnostic<br />
+**Location:** Werribee, 3030. Western Suburbs<br />
+**Living circumstances:** Currently renting in a small unit and small backyard<br />
 **What is the problem this Target Audience needs solving?**<br />
+Glenn is a person in his mid 20s. With a small backyard at his rental, he will usually go out and explore the nearby park or reserve to get some fresh air. He is quite keen to visit and explore new places
 <br />
+The problem that Glenn are two fold: <br />1. Finding the right park with right facilities. Many times, he has tried to find information on the a particular park, only to find that park does not have the correct facilities. Glenn has run into this problem many times, especially when it comes to working with special needs children, whereby the park does not have a playground or toilet facilities. 
+2.  Finding a different variety of parks. As someone who loves exploring and as a special needs support worker, Glenn feel that some parks around his area are quite underwhelming, and would like to find a way to distinguish and filter out parks, based on what they have to offer. 
 
 ---
 
-![image](./Resources/)
-**Who:** <br />
-**Age:** <br />
-**Occupation:** <br />
-**Nationality:** <br />
-**Income:** <br />
-**Religion:** <br />
-**Location:** <br />
-**Living circumstances:** <br />
+![image](./Resources/HenryW.jpg)
+<br />
+**Who:** Henry Williams<br />
+**Age:** 20 years old<br />
+**Occupation:** Student<br />
+**Nationality:** American<br />
+**Income:** Part-time job<br />
+**Religion:** Christian<br />
+**Location:** New York, American<br />
+**Living circumstances:** Currently live in a backpacker hotel<br />
 **What is the problem this Target Audience needs solving?**<br />
+1. Henry has very limited time in Melbourne, he don't have much time to take the process of trial and error.<br />
+2. Henry want to find parks that have good views and special architechture or hitorical statue etc. However, he don't have friends in melbourne to give him some valuable suggestions, his only option is google searching which is not convnient.<br />
 <br />
 
 ---
@@ -119,10 +125,10 @@ Their ultimate park is one that has a toilet, cover from the sun, a playground a
 ![Image one of Katja Novak user story](./Resources/UserStory_Katja_1.png)
 ![Image two of Katja Novak user story](./Resources/UserStory_Katja_2.png)
 
-### []()
+### [Glenn B](https://www.figma.com/file/2DryqFWrEVPYJMFjB7luzn/A-user-persona?node-id=0%3A1)
 
-![Image one of ](./Resources/)
-![Image two of ](./Resources/)
+![Image one of ](./Resources/userStory-glenn1.png)
+![Image two of ](./Resources/userStory-glenn2.1.png)
 
 ### []()
 
