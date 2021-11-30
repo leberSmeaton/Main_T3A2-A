@@ -80,7 +80,7 @@ Their ultimate park is one that has a toilet, cover from the sun, a playground a
 **What is the problem this Target Audience needs solving?**<br />
 Glenn is a person in his mid 20s. With a small backyard at his rental, he will usually go out and explore the nearby park or reserve to get some fresh air. He is quite keen to visit and explore new places
 <br />
-The problem that Glenn are two fold: <br />1. Finding the right park with right facilities. Many times, he has tried to find information on the a particular park, only to find that park does not have the correct facilities. Glenn has run into this problem many times, especially when it comes to working with special needs children, whereby the park does not have a playground or toilet facilities. 2. Finding a different variety of parks. As someone who loves exploring and as a special needs support worker, Glenn feel that some parks around his area are quite underwhelming, and would like to find a way to distinguish and filter out parks, based on what they have to offer.
+The problem that Glenn have are two fold: <br />1. Finding the right park with right facilities. Many times, he has tried to find information on the a particular park, only to find that park does not have the correct facilities. Glenn has run into this problem many times, especially when it comes to working with special needs children, whereby the park does not have a playground or toilet facilities. 2. Finding a different variety of parks. As someone who loves exploring and as a special needs support worker, Glenn feel that some parks around his area are quite underwhelming, and would like to find a way to distinguish and filter out parks, based on what they have to offer.
 
 ---
 
@@ -141,7 +141,11 @@ The problem that Glenn are two fold: <br />1. Finding the right park with right 
 
 <!-- Show at least 2 dataflow diagrams that follow a set dataflow convention -->
 
+![app_architecture_diagram](./Resources/Dataflow_Diagram_1.png)
+
 ## **Application Architecture Diagram:**
+
+![app_architecture_diagram](./Resources/aad.png)
 
 ## **Park Vic User Stories:**
 
@@ -174,7 +178,7 @@ The problem that Glenn are two fold: <br />1. Finding the right park with right 
 ### [Picnic Victoria Wireframe View](https://www.figma.com/file/1NgAVHDgzPuJq9B8WJswjZ/Wireframes?node-id=0%3A1)
 
 Landing View
-![Image one of Desktop](./Resources/desktop-wireframe-a.png) 
+![Image one of Desktop](./Resources/desktop-wireframe-a.png)
 Landing View Zoomed with type of park selected
 ![Image one of Desktop](./Resources/desktop-wireframe-b.png)
 List View
@@ -191,6 +195,7 @@ Sign Up View
 ![Image one of Desktop](./Resources/desktop-wireframe-j.png)
 
 ---
+
 Landing view - Tablet
 ![Image one of Tablet](Resources/tablet-wireframes/Tablet-Landing.png)
 Hamburger menu - Tablet
@@ -209,25 +214,39 @@ About - Tablet
 
 ---
 
-Landing view - Mobile
-![Image one of Mobile](./Resources/mobile-landing.png)
-Hamburger menu - Mobile
-![Image one of Mobile](./Resources/mobile-hamburger_menu.png)
-List - Mobile
-![Image one of Mobile](./Resources/mobile-list.png)
-Comment on a park
+Landing view - Mobile<br />
+![Image one of Mobile](./Resources/mobile-landing.png)<br />
+Hamburger menu - Mobile<br />
+![Image one of Mobile](./Resources/mobile-hamburger_menu.png)<br />
+List - Mobile<br />
+![Image one of Mobile](./Resources/mobile-list.png)<br />
+Comment on a park<br />
 ![Image one of Mobile](./Resources/mobile-post_comment1.png)
-![Image one of Mobile](./Resources/mobile-post_comment2.png)
-Sign In - Mobile
-![Image one of Mobile](./Resources/mobile-signin.png)
-Sign Up - Mobile
-![Image one of Mobile](./Resources/mobile-signup.png)
-About - Mobile
-![Image one of Mobile](./Resources/mobile-about.png)
+![Image one of Mobile](./Resources/mobile-post_comment2.png)<br />
+Sign In - Mobile<br />
+![Image one of Mobile](./Resources/mobile-signin.png)<br />
+Sign Up - Mobile<br />
+![Image one of Mobile](./Resources/mobile-signup.png)<br />
+About - Mobile<br />
+![Image one of Mobile](./Resources/mobile-about.png)<br />
 
 ---
 
-![Image one of 2nd Mobile](./Resources/)
+Landing view - Fold Mobile <br />
+![Image one of Mobile](./Resources/Landing_Fold.png)<br />
+Hamburger menu - Fold Mobile <br />
+![Image one of Mobile](./Resources/Menu_Fold.png)<br />
+List - Fold Mobile <br />
+![Image one of Mobile](./Resources/List_Fold.png)<br />
+Comment on a park - Fold Mobile <br />
+![Image one of Mobile](./Resources/Comment_Fold.png)<br />
+Sign In - Fold Mobile <br />
+![Image one of Mobile](./Resources/SignIn_Fold.png)<br />
+Sign Up - Fold Mobile <br />
+![Image one of Mobile](./Resources/SignUp_Fold.png)<br />
+About - Fold Mobile <br />
+![Image one of Mobile](./Resources/About_Fold.png)
+<br />
 
 ## **Project Management:**
 
@@ -259,3 +278,6 @@ History of project movement.
 ![Image three kaban style projectment](./Resources/Kaban_start_3.png)
 ![Image four kaban style projectment](./Resources/Kaban_middle_1.png)
 ![Image four kaban style projectment](./Resources/Kaban_middle_2.png)
+![Image four kaban style projectment](./Resources/Kaban_end_1.png)
+![Image four kaban style projectment](./Resources/Kaban_end_2.png)
+![Image four kaban style projectment](./Resources/Kaban_end_3.png)
