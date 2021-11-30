@@ -112,9 +112,10 @@ The problem that Glenn are two fold: <br />1. Finding the right park with right 
 **Location:** Fitzroy North<br />
 **Living circumstances:** Sharehouse living with three other creatives<br />
 **What is the problem this Target Audience needs solving?**<br />
+
 1. Living in a sharehouse with three other people, Ramona would like to get out of the house and expand her social circle within the skateboarding or skating community.
 2. Ramona is a busy person, so having an app that would give her quick and easy information on the types of skateparks available in her local vicinity would be ideal. As she is a budding skateboarder, Ramona would also like to share and find community reviews of the skateparks in her area. This is so she is able to organise meetups and learn with skaters of different backgrounds and experience.
-<br />
+   <br />
 
 ---
 
@@ -169,7 +170,7 @@ The problem that Glenn are two fold: <br />1. Finding the right park with right 
 
 <!-- Show 2 versions of your FIGMA wireframes -->
 
-### [Picnic Victoria Wireframe View]()
+### [Picnic Victoria Wireframe View](https://www.figma.com/file/1NgAVHDgzPuJq9B8WJswjZ/Wireframes?node-id=0%3A1)
 
 Landing View
 ![Image one of Desktop](./Resources/desktop-wireframe-a.png)
@@ -193,6 +194,7 @@ Sign Up View
 ![Image one of Tablet](./Resources/)
 
 ---
+
 Landing view - Mobile
 ![Image one of Mobile](./Resources/mobile-landing.png)
 Hamburger menu - Mobile
@@ -208,7 +210,6 @@ Sign Up - Mobile
 ![Image one of Mobile](./Resources/mobile-signup.png)
 About - Mobile
 ![Image one of Mobile](./Resources/mobile-about.png)
-
 
 ---
 
