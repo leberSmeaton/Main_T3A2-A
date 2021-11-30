@@ -27,6 +27,29 @@ _It doesn't get much Gouda than that._
 
 #### **Functionality / Features:**
 
+- Landing Page is the Map View: allows for instant viewing of proximity to parks.
+  - Navigation Header allows to switch to List View - Has markers of park locations
+  - Has modal popups on click of park locations
+  - Has drop down to select which type of park you want to select.
+    ![The Novak Family picture](./Resources/desktop-wireframe-a-feature.png)
+- List View: lists the entire of park markers in an informative readable listicle.
+  - cards on click expand to show comments and any additional imagery if present.
+  - Users can reply if logged in.
+  - Authorisation will be requested.
+  - Special Picnic Victoria feature is that users can pair a wine and or cheese with their park visit by clicking the randomise buttons. This shows the random options.
+  - if logged in the user can also rate or make comments to the parks selected.
+    ![The Novak Family picture](./Resources/desktop-wireframe-f-feature.png)
+    ![The Novak Family picture](./Resources/desktop-wireframe-g-feature-b.png)
+- About View: gives details about what the app does, who it is by and why.
+  - Other feature includes details about our Picnic Victoria partnership with wine and cheese producers.
+    ![The Novak Family picture](./Resources/desktop-wireframe-h-feature.png)
+- Sign In / Sign Up View: Allows Users and Admin to sign up and sign in.
+  - User Sign up and Sign in allows for user authorisation, accessing certain features of the app such as star rating, park commenting and image upload.
+  - Authentication for when users sign in includes, email as identifier, password, optional profile pic.
+  - Authorisation occurs for features that have CRUD functionality for all users and admin. USers have access to only their commentary. Admin has access to ALL USERS CRUD functionality, including the ability to _hide_ or _delete_ posts that don't meet standard.  
+    ![The Novak Family picture](./Resources/desktop-wireframe-i-feature.png)
+    ![The Novak Family picture](./Resources/desktop-wireframe-j-feature.png)
+
 #### **Target Audience:**
 
 ![The Novak Family picture](./Resources/TheNovaks.jpg)
