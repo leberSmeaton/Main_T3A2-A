@@ -220,7 +220,7 @@ Comment on a park<br />
 ![Image one of Mobile](./Resources/mobile-post_comment2.png)<br />
 Sign In - Mobile<br />
 ![Image one of Mobile](./Resources/mobile-signin.png)
-Sign Up - Mobile
+Sign Up - Mobile<br />
 ![Image one of Mobile](./Resources/mobile-signup.png)<br />
 About - Mobile<br />
 ![Image one of Mobile](./Resources/mobile-about.png)<br />
