@@ -178,3 +178,9 @@ Sign Up View
 ## **Project Management:**
 
 <!-- State chosen standards and planning methodology -->
+
+![Image one kaban style projectment](./Resources/Kaban_start_1.png)
+![Image two kaban style projectment](./Resources/Kaban_start_2.png)
+![Image three kaban style projectment](./Resources/Kaban_start_3.png)
+![Image four kaban style projectment](./Resources/Kaban_middle_1.png)
+![Image four kaban style projectment](./Resources/Kaban_middle_2.png)
