@@ -141,8 +141,12 @@ The problem that Glenn have are two fold: <br />1. Finding the right park with r
 
 <!-- Show at least 2 dataflow diagrams that follow a set dataflow convention -->
 
+![app_architecture_diagram](./Resources/Dataflow_Diagram_1.png)
+
 ## **Application Architecture Diagram:**
+
 ![app_architecture_diagram](./Resources/aad.png)
+
 ## **Park Vic User Stories:**
 
 <!-- Show 2 versions of user stories 'shows evidence of user story revision and refinement' -->
@@ -174,7 +178,7 @@ The problem that Glenn have are two fold: <br />1. Finding the right park with r
 ### [Picnic Victoria Wireframe View](https://www.figma.com/file/1NgAVHDgzPuJq9B8WJswjZ/Wireframes?node-id=0%3A1)
 
 Landing View
-![Image one of Desktop](./Resources/desktop-wireframe-a.png) 
+![Image one of Desktop](./Resources/desktop-wireframe-a.png)
 Landing View Zoomed with type of park selected
 ![Image one of Desktop](./Resources/desktop-wireframe-b.png)
 List View
@@ -191,6 +195,7 @@ Sign Up View
 ![Image one of Desktop](./Resources/desktop-wireframe-j.png)
 
 ---
+
 Landing view - Tablet
 ![Image one of Tablet](Resources/tablet-wireframes/Tablet-Landing.png)
 Hamburger menu - Tablet
@@ -242,6 +247,7 @@ Sign Up - Fold Mobile <br />
 About - Fold Mobile <br />
 ![Image one of Mobile](./Resources/About_Fold.png)
 <br />
+
 ## **Project Management:**
 
 <!-- State chosen standards and planning methodology -->
@@ -272,3 +278,6 @@ History of project movement.
 ![Image three kaban style projectment](./Resources/Kaban_start_3.png)
 ![Image four kaban style projectment](./Resources/Kaban_middle_1.png)
 ![Image four kaban style projectment](./Resources/Kaban_middle_2.png)
+![Image four kaban style projectment](./Resources/Kaban_end_1.png)
+![Image four kaban style projectment](./Resources/Kaban_end_2.png)
+![Image four kaban style projectment](./Resources/Kaban_end_3.png)
