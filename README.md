@@ -132,10 +132,10 @@ The problem that Glenn are two fold: <br />1. Finding the right park with right 
 
 ### []()
 
-![Image one of ](./Resources/)
-![Image two of ](./Resources/)
+![Image one of ](Resources/UserStory-Ramona1.jpg)
+![Image two of ](Resources/UserStory-Ramona2.jpg)
 
-### []()
+### [Ramona Rodriguez]()
 
 ![Image one of ](./Resources/)
 ![Image two of ](./Resources/)
