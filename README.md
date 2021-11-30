@@ -130,12 +130,12 @@ The problem that Glenn are two fold: <br />1. Finding the right park with right 
 ![Image one of ](./Resources/userStory-glenn1.png)
 ![Image two of ](./Resources/userStory-glenn2.1.png)
 
-### []()
+### [Ramona Rodriguez](https://www.figma.com/file/dN11zwW6TYaPncwCPeT7pu/Skater-Girl-User-Story?node-id=0%3A1)
 
 ![Image one of ](Resources/UserStory-Ramona1.jpg)
 ![Image two of ](Resources/UserStory-Ramona2.jpg)
 
-### [Ramona Rodriguez]()
+### []()
 
 ![Image one of ](./Resources/)
 ![Image two of ](./Resources/)
