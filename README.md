@@ -103,6 +103,7 @@ The problem that Glenn are two fold: <br />1. Finding the right park with right 
 ---
 
 ![image](Resources/ramona-skater.jpg)
+<br />
 **Who:** Ramona Rodriguez<br />
 **Age:** 28<br />
 **Occupation:** Graphic Designer<br />
@@ -173,7 +174,7 @@ The problem that Glenn are two fold: <br />1. Finding the right park with right 
 ### [Picnic Victoria Wireframe View](https://www.figma.com/file/1NgAVHDgzPuJq9B8WJswjZ/Wireframes?node-id=0%3A1)
 
 Landing View
-![Image one of Desktop](./Resources/desktop-wireframe-a.png)
+![Image one of Desktop](./Resources/desktop-wireframe-a.png) 
 Landing View Zoomed with type of park selected
 ![Image one of Desktop](./Resources/desktop-wireframe-b.png)
 List View
@@ -190,8 +191,21 @@ Sign Up View
 ![Image one of Desktop](./Resources/desktop-wireframe-j.png)
 
 ---
-
-![Image one of Tablet](./Resources/)
+Landing view - Tablet
+![Image one of Tablet](Resources/tablet-wireframes/Tablet-Landing.png)
+Hamburger menu - Tablet
+![Image one of Tablet](Resources/tablet-wireframes/Tablet-Hamburger-Menu.png)
+List - Tablet
+![Image one of Tablet](Resources/tablet-wireframes/Tablet-List.png)
+Comment on a park
+![Image one of Tablet](Resources/tablet-wireframes/Tablet-List-Comments-Part1.png)
+![Image one of Tablet](Resources/tablet-wireframes/Tablet-List-Comments-Part2.png)
+Sign In - Tablet
+![Image one of Tablet](Resources/tablet-wireframes/Tablet-SignIn.png)
+Sign Up - Tablet
+![Image one of Tablet](Resources/tablet-wireframes/Tablet-SignUp.png)
+About - Tablet
+![Image one of Tablet](Resources/tablet-wireframes/Tablet-About.png)
 
 ---
 
