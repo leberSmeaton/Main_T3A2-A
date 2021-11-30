@@ -46,7 +46,7 @@ Their ultimate park is one that has a toilet, cover from the sun, a playground a
 ---
 
 ![Glenn B](./Resources/glenn.jpeg)
-**Who:**  Glenn B. Single male<br />
+**Who:** Glenn B. Single male<br />
 **Age:** 25 years old<br />
 **Occupation:** Music teacher and support worker for special needs children. Living with another housemate<br />
 **Nationality:** Australian<br />
@@ -57,8 +57,7 @@ Their ultimate park is one that has a toilet, cover from the sun, a playground a
 **What is the problem this Target Audience needs solving?**<br />
 Glenn is a person in his mid 20s. With a small backyard at his rental, he will usually go out and explore the nearby park or reserve to get some fresh air. He is quite keen to visit and explore new places
 <br />
-The problem that Glenn are two fold: <br />1. Finding the right park with right facilities. Many times, he has tried to find information on the a particular park, only to find that park does not have the correct facilities. Glenn has run into this problem many times, especially when it comes to working with special needs children, whereby the park does not have a playground or toilet facilities. 
-2.  Finding a different variety of parks. As someone who loves exploring and as a special needs support worker, Glenn feel that some parks around his area are quite underwhelming, and would like to find a way to distinguish and filter out parks, based on what they have to offer. 
+The problem that Glenn are two fold: <br />1. Finding the right park with right facilities. Many times, he has tried to find information on the a particular park, only to find that park does not have the correct facilities. Glenn has run into this problem many times, especially when it comes to working with special needs children, whereby the park does not have a playground or toilet facilities. 2. Finding a different variety of parks. As someone who loves exploring and as a special needs support worker, Glenn feel that some parks around his area are quite underwhelming, and would like to find a way to distinguish and filter out parks, based on what they have to offer.
 
 ---
 
@@ -70,12 +69,13 @@ The problem that Glenn are two fold: <br />1. Finding the right park with right 
 **Nationality:** American<br />
 **Income:** Part-time job<br />
 **Religion:** Christian<br />
-**Location:** New York<br />
+**Location:** New York, American<br />
 **Living circumstances:** Currently live in a backpacker hotel<br />
 **What is the problem this Target Audience needs solving?**<br />
-1. Henry has very limited time in Melbourne, he don't have much time to take the process of trial and error.<br />
+
+1. Henry has very limited time in Melbourne, and he doesn't have much time to take the process of trial and error.<br />
 2. Henry want to find parks that have good views and special architechture or hitorical statue etc. However, he don't have friends in melbourne to give him some valuable suggestions, his only option is google searching which is not convnient.<br />
-<br />
+   <br />
 
 ---
 
@@ -144,6 +144,43 @@ The problem that Glenn are two fold: <br />1. Finding the right park with right 
 
 <!-- Show 2 versions of your FIGMA wireframes -->
 
+### [Picnic Vic Wireframe View]()
+
+Landing View
+![Image one of Desktop](./Resources/desktop-wireframe-a.png)
+Landing View Zoomed with type of park selected
+![Image one of Desktop](./Resources/desktop-wireframe-b.png)
+List View
+![Image one of Desktop](./Resources/desktop-wireframe-c.png)
+List View Expanded with randomise wine and cheese picnic pairing and comments
+![Image one of Desktop](./Resources/desktop-wireframe-f.png)
+List View Expanded with comment form and image upload
+![Image one of Desktop](./Resources/desktop-wireframe-g.png)
+About View
+![Image one of Desktop](./Resources/desktop-wireframe-h.png)
+Sign In View
+![Image one of Desktop](./Resources/desktop-wireframe-i.png)
+Sign Up View
+![Image one of Desktop](./Resources/desktop-wireframe-j.png)
+
+---
+
+![Image one of Tablet](./Resources/)
+
+---
+
+![Image one of Mobile](./Resources/)
+
+---
+
+![Image one of 2nd Mobile](./Resources/)
+
 ## **Project Management:**
 
 <!-- State chosen standards and planning methodology -->
+
+![Image one kaban style projectment](./Resources/Kaban_start_1.png)
+![Image two kaban style projectment](./Resources/Kaban_start_2.png)
+![Image three kaban style projectment](./Resources/Kaban_start_3.png)
+![Image four kaban style projectment](./Resources/Kaban_middle_1.png)
+![Image four kaban style projectment](./Resources/Kaban_middle_2.png)
