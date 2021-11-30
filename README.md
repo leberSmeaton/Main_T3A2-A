@@ -142,7 +142,7 @@ The problem that Glenn are two fold: <br />1. Finding the right park with right 
 <!-- Show at least 2 dataflow diagrams that follow a set dataflow convention -->
 
 ## **Application Architecture Diagram:**
-
+![app_architecture_diagram](./Resources/aad.png)
 ## **Park Vic User Stories:**
 
 <!-- Show 2 versions of user stories 'shows evidence of user story revision and refinement' -->
