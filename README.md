@@ -219,7 +219,7 @@ Comment on a park<br />
 ![Image one of Mobile](./Resources/mobile-post_comment1.png)
 ![Image one of Mobile](./Resources/mobile-post_comment2.png)<br />
 Sign In - Mobile<br />
-![Image one of Mobile](./Resources/mobile-signin.png)
+![Image one of Mobile](./Resources/mobile-signin.png)<br />
 Sign Up - Mobile<br />
 ![Image one of Mobile](./Resources/mobile-signup.png)<br />
 About - Mobile<br />
