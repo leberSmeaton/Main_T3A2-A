@@ -1,4 +1,4 @@
-# **Picnic Vic**
+# **Picnic Victoria**
 
 ###### **ASSESSMENT:** Full Stack Application - Part A
 
@@ -6,7 +6,7 @@
 
 <br />
 
-## **Picnic Vic Description**
+## **Picnic Victoria Description**
 
 > _Nothing is better than a picnic in Vic!_
 
@@ -18,14 +18,37 @@ Parks Victoria - Victorian State Government
 
 In a post Covid world we now know more than ever that we need to connect with our friends and family, outdoors in the _real world_. We need to utilise our green open spaces to enrich our lives.<br />
 To meet calls and pressure that local councils and the State Government aren't providing enough green space, Parks Victoria are creating a new inner city park database. For small and large parks alike!<br />
-The **Picnic Vic** app provides detailed park amenity information to help facilitate a family picnic to a skate park hangout.<br /><br />
+The **Picnic Victoria** app provides detailed park amenity information to help facilitate a family picnic to a skate park hangout.<br /><br />
 **_A park is nothing without a picnic and nothing is better than a picnic in Vic!_** <br /><br />
-Want to reach peak Vic picnic? 🍷 + 🧀 = 🧺 <br/>
-The Picnic Vic app have teamed up with Victorian Wine and Cheese producers to pair your local park with local picnic produce. <br />
+Want to reach peak picnic? 🍷 + 🧀 = 🧺 <br/>
+The Picnic Victoria app have teamed up with Victorian Wine and Cheese producers to pair your local park with local picnic produce. <br />
 _It doesn't get much Gouda than that._
 <br /><br />
 
 #### **Functionality / Features:**
+
+- Landing Page is the Map View: allows for instant viewing of proximity to parks.
+  - Navigation Header allows to switch to List View - Has markers of park locations
+  - Has modal popups on click of park locations
+  - Has drop down to select which type of park you want to select.
+    ![The Novak Family picture](./Resources/desktop-wireframe-a-feature.png)
+- List View: lists the entire of park markers in an informative readable listicle.
+  - cards on click expand to show comments and any additional imagery if present.
+  - Users can reply if logged in.
+  - Authorisation will be requested.
+  - Special Picnic Victoria feature is that users can pair a wine and or cheese with their park visit by clicking the randomise buttons. This shows the random options.
+  - if logged in the user can also rate or make comments to the parks selected.
+    ![The Novak Family picture](./Resources/desktop-wireframe-f-feature.png)
+    ![The Novak Family picture](./Resources/desktop-wireframe-g-feature-b.png)
+- About View: gives details about what the app does, who it is by and why.
+  - Other feature includes details about our Picnic Victoria partnership with wine and cheese producers.
+    ![The Novak Family picture](./Resources/desktop-wireframe-h-feature.png)
+- Sign In / Sign Up View: Allows Users and Admin to sign up and sign in.
+  - User Sign up and Sign in allows for user authorisation, accessing certain features of the app such as star rating, park commenting and image upload.
+  - Authentication for when users sign in includes, email as identifier, password, optional profile pic.
+  - Authorisation occurs for features that have CRUD functionality for all users and admin. USers have access to only their commentary. Admin has access to ALL USERS CRUD functionality, including the ability to _hide_ or _delete_ posts that don't meet standard.  
+    ![The Novak Family picture](./Resources/desktop-wireframe-i-feature.png)
+    ![The Novak Family picture](./Resources/desktop-wireframe-j-feature.png)
 
 #### **Target Audience:**
 
@@ -90,9 +113,10 @@ The problem that Glenn are two fold: <br />1. Finding the right park with right 
 **Location:** Fitzroy North<br />
 **Living circumstances:** Sharehouse living with three other creatives<br />
 **What is the problem this Target Audience needs solving?**<br />
+
 1. Living in a sharehouse with three other people, Ramona would like to get out of the house and expand her social circle within the skateboarding or skating community.
 2. Ramona is a busy person, so having an app that would give her quick and easy information on the types of skateparks available in her local vicinity would be ideal. As she is a budding skateboarder, Ramona would also like to share and find community reviews of the skateparks in her area. This is so she is able to organise meetups and learn with skaters of different backgrounds and experience.
-<br />
+   <br />
 
 ---
 
@@ -138,16 +162,16 @@ The problem that Glenn are two fold: <br />1. Finding the right park with right 
 ![Image one of ](Resources/UserStory-Ramona1.jpg)
 ![Image two of ](Resources/UserStory-Ramona2.jpg)
 
-### []()
+### [Henry Williams](https://www.figma.com/file/Ix0i5H4wdlQMbqRtiHGorb/User-personas---Henry-Williams?node-id=0%3A1)
 
-![Image one of ](./Resources/)
-![Image two of ](./Resources/)
+![Image one of ](./Resources/UserStory_Henry_1.png)
+![Image two of ](./Resources/UserStory_Henry_2.png)
 
 ## **Device Wireframes:**
 
 <!-- Show 2 versions of your FIGMA wireframes -->
 
-### [Picnic Vic Wireframe View]()
+### [Picnic Victoria Wireframe View](https://www.figma.com/file/1NgAVHDgzPuJq9B8WJswjZ/Wireframes?node-id=0%3A1)
 
 Landing View
 ![Image one of Desktop](./Resources/desktop-wireframe-a.png)
@@ -172,7 +196,21 @@ Sign Up View
 
 ---
 
-![Image one of Mobile](./Resources/)
+Landing view - Mobile
+![Image one of Mobile](./Resources/mobile-landing.png)
+Hamburger menu - Mobile
+![Image one of Mobile](./Resources/mobile-hamburger_menu.png)
+List - Mobile
+![Image one of Mobile](./Resources/mobile-list.png)
+Comment on a park
+![Image one of Mobile](./Resources/mobile-post_comment1.png)
+![Image one of Mobile](./Resources/mobile-post_comment2.png)
+Sign In - Mobile
+![Image one of Mobile](./Resources/mobile-signin.png)
+Sign Up - Mobile
+![Image one of Mobile](./Resources/mobile-signup.png)
+About - Mobile
+![Image one of Mobile](./Resources/mobile-about.png)
 
 ---
 
