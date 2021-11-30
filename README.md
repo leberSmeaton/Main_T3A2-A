@@ -219,6 +219,27 @@ About - Mobile
 
 <!-- State chosen standards and planning methodology -->
 
+Picnic Victoria chose a Kaban workflow management system as their chosen agile management style, specifically for it's simplified visualisation of the team work load. <br />
+
+Individual developers manage their code and their workflow where it is _code reviewed_ before raising the pull request. This was specifically helpful in this documentation stage where all the team needs to be across the entire breadth of functionality and features. <br />
+
+One thing that the team did not implement but will implement in Part B are deadlines on cards. Part A's due date was close enough and everyones social and work calendar too complicated to assign dates. The team worked together in a regard to not require such stringent reminders, but have assessed the need for it in Part B.
+
+Kaban features include:
+
+- Card rating system: low, medium, high.
+- Adding members to cards.
+  ![Image one kaban style projectment](./Resources/Kaban_detail_1.png)
+- Watching necessary cards,
+- Comments,
+- attachments to ensure links to other softwares are easily accessible,
+  ![Image one kaban style projectment](./Resources/Kaban_detail_2.png)
+- Checklists: Completed/Code Reviewed/Raised Pull Request,
+  ![Image one kaban style projectment](./Resources/Kaban_detail_3.png)
+
+<br />
+
+History of project movement.
 ![Image one kaban style projectment](./Resources/Kaban_start_1.png)
 ![Image two kaban style projectment](./Resources/Kaban_start_2.png)
 ![Image three kaban style projectment](./Resources/Kaban_start_3.png)
