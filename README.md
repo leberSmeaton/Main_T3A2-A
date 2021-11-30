@@ -80,6 +80,7 @@ The problem that Glenn are two fold: <br />1. Finding the right park with right 
 ---
 
 ![image](Resources/ramona-skater.jpg)
+<br />
 **Who:** Ramona Rodriguez<br />
 **Age:** 28<br />
 **Occupation:** Graphic Designer<br />
