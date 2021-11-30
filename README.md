@@ -79,16 +79,18 @@ The problem that Glenn are two fold: <br />1. Finding the right park with right 
 
 ---
 
-![image](./Resources/)
-**Who:** <br />
-**Age:** <br />
-**Occupation:** <br />
-**Nationality:** <br />
-**Income:** <br />
-**Religion:** <br />
-**Location:** <br />
-**Living circumstances:** <br />
+![image](Resources/ramona-skater.jpg)
+**Who:** Ramona Rodriguez<br />
+**Age:** 28<br />
+**Occupation:** Graphic Designer<br />
+**Nationality:** Australian/Mexican<br />
+**Income:** $70,000 p.a.<br />
+**Religion:** None<br />
+**Location:** Fitzroy North<br />
+**Living circumstances:** Sharehouse living with three other creatives<br />
 **What is the problem this Target Audience needs solving?**<br />
+1. Living in a sharehouse with three other people, Ramona would like to get out of the house and expand her social circle within the skateboarding or skating community.
+2. Ramona is a busy person, so having an app that would give her quick and easy information on the types of skateparks available in her local vicinity would be ideal. As she is a budding skateboarder, Ramona would also like to share and find community reviews of the skateparks in her area. This is so she is able to organise meetups and learn with skaters of different backgrounds and experience.
 <br />
 
 ---
