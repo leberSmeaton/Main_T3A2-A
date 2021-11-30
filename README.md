@@ -1,4 +1,4 @@
-# **Picnic Vic**
+# **Picnic Victoria**
 
 ###### **ASSESSMENT:** Full Stack Application - Part A
 
@@ -6,7 +6,7 @@
 
 <br />
 
-## **Picnic Vic Description**
+## **Picnic Victoria Description**
 
 > _Nothing is better than a picnic in Vic!_
 
@@ -18,10 +18,10 @@ Parks Victoria - Victorian State Government
 
 In a post Covid world we now know more than ever that we need to connect with our friends and family, outdoors in the _real world_. We need to utilise our green open spaces to enrich our lives.<br />
 To meet calls and pressure that local councils and the State Government aren't providing enough green space, Parks Victoria are creating a new inner city park database. For small and large parks alike!<br />
-The **Picnic Vic** app provides detailed park amenity information to help facilitate a family picnic to a skate park hangout.<br /><br />
+The **Picnic Victoria** app provides detailed park amenity information to help facilitate a family picnic to a skate park hangout.<br /><br />
 **_A park is nothing without a picnic and nothing is better than a picnic in Vic!_** <br /><br />
-Want to reach peak Vic picnic? 🍷 + 🧀 = 🧺 <br/>
-The Picnic Vic app have teamed up with Victorian Wine and Cheese producers to pair your local park with local picnic produce. <br />
+Want to reach peak picnic? 🍷 + 🧀 = 🧺 <br/>
+The Picnic Victoria app have teamed up with Victorian Wine and Cheese producers to pair your local park with local picnic produce. <br />
 _It doesn't get much Gouda than that._
 <br /><br />
 
@@ -144,7 +144,7 @@ The problem that Glenn are two fold: <br />1. Finding the right park with right 
 
 <!-- Show 2 versions of your FIGMA wireframes -->
 
-### [Picnic Vic Wireframe View]()
+### [Picnic Victoria Wireframe View]()
 
 Landing View
 ![Image one of Desktop](./Resources/desktop-wireframe-a.png)
