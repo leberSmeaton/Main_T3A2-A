@@ -29,7 +29,7 @@ _It doesn't get much Gouda than that._
 
 - Landing Page is the Map View: allows for instant viewing of proximity to parks.
   - Navigation Header allows to switch to List View - Has markers of park locations
-  - Has modal popups on click of park locations
+  - Has model popups on click of park locations
   - Has drop down to select which type of park you want to select.
     ![The Novak Family picture](./Resources/desktop-wireframe-a-feature.png)
 - List View: lists the entire of park markers in an informative readable listicle.
