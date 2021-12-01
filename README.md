@@ -31,7 +31,7 @@ _It doesn't get much Gouda than that._
   - Navigation Header allows to switch to List View - Has markers of park locations
   - Has model popups on click of park locations
   - Has drop down to select which type of park you want to select.
-    ![The Novak Family picture](./Resources/desktop-wireframe-a-feature.png)
+    ![wireframe feature](./Resources/desktop-wireframe-a-feature.png)
 - List View: lists the entire of park markers in an informative readable listicle.
   - cards on click expand to show comments and any additional imagery if present.
   - Users can reply if logged in.
@@ -39,16 +39,17 @@ _It doesn't get much Gouda than that._
   - Special Picnic Victoria feature is that users can pair a wine and or cheese with their park visit by clicking the randomise buttons. This shows the random options.
   - if logged in the user can also rate or make comments to the parks selected.
     ![The Novak Family picture](./Resources/desktop-wireframe-f-feature.png)
-    ![The Novak Family picture](./Resources/desktop-wireframe-g-feature-b.png)
+  - Authentication of login allows USERS to have access to RATING feature on Parks and COMMENTS w/ image upload feature.
+    ![wireframe feature](./Resources/desktop-wireframe-g-feature-b.png)
 - About View: gives details about what the app does, who it is by and why.
   - Other feature includes details about our Picnic Victoria partnership with wine and cheese producers.
-    ![The Novak Family picture](./Resources/desktop-wireframe-h-feature.png)
+    ![wireframe feature](./Resources/desktop-wireframe-h-feature.png)
 - Sign In / Sign Up View: Allows Users and Admin to sign up and sign in.
   - User Sign up and Sign in allows for user authorisation, accessing certain features of the app such as star rating, park commenting and image upload.
   - Authentication for when users sign in includes, email as identifier, password, optional profile pic.
   - Authorisation occurs for features that have CRUD functionality for all users and admin. USers have access to only their commentary. Admin has access to ALL USERS CRUD functionality, including the ability to _hide_ or _delete_ posts that don't meet standard.  
-    ![The Novak Family picture](./Resources/desktop-wireframe-i-feature.png)
-    ![The Novak Family picture](./Resources/desktop-wireframe-j-feature.png)
+    ![wireframe feature](./Resources/desktop-wireframe-i-feature.png)
+    ![wireframe feature](./Resources/desktop-wireframe-j-feature.png)
 
 #### **Target Audience:**
 
@@ -122,18 +123,18 @@ The problem that Glenn have are two fold: <br />1. Finding the right park with r
 
 #### **Tech Stack:**
 
-| Application and Data | Utilities  | DevOps  | Business Tools |
-| -------------------- | ---------- | ------- | -------------- |
-| HTML 5               | Postman    | GitHub  | Trello         |
-| CSS                  | JWT/Devise | Git     | G Suite        |
-| JavaScript ES6       | NPM        | VS Code | Discord        |
-| Rails                | Ruby Gems  |         | Figma          |
+| Application and Data | Utilities      | DevOps  | Business Tools |
+| -------------------- | -------------- | ------- | -------------- |
+| HTML 5               | Postman        | GitHub  | Trello         |
+| CSS                  | JWT/Devise     | Git     | G Suite        |
+| JavaScript ES6       | NPM            | VS Code | Discord        |
+| Rails                | Ruby Gems      |         | Figma          |
 | React                | - cancando gem |         | Google Fonts   |
-| PostgreSQL           | RSPEC      |         | Zoom           |
-| Amazon S3            | Jest       |         |                |
-| Heroku               | Google API |         |                |
-| Netlify              |            |         |                |
-|                      |            |         |                |
+| PostgreSQL           | RSPEC          |         | Zoom           |
+| Amazon S3            | Jest           |         |                |
+| Heroku               | Google API     |         |                |
+| Netlify              |                |         |                |
+|                      |                |         |                |
 
 <br />
 
@@ -148,33 +149,34 @@ The problem that Glenn have are two fold: <br />1. Finding the right park with r
 ![app_architecture_diagram](./Resources/aad.png)
 
 ## **Park Vic User Stories:**
+
 The Novak Family
+
 - As **stay at home** mum Katja Novak, **I need an easy wine and cheese option** whilst I watch my children at the park, as **being a mum is hard work and I deserve a treat**.
 
 - As **working dad** Phil Novak, I want to make sure my **park is the right type** and has **all the features I need** for my family, so I can ensure **family time is stress free** and **maximum time is spent together**.
 
-
 Ramona Rodriguez
+
 - As Ramona, I want to be able to review parks with skate features and leave comments on it, so that I can share this information to other people in my community.
 
 - As Ramona, I want to be able to search for my nearest skatepark on a map, so that I can save time between my busy schedule.
 
 - As Ramona, I want to view different suggestions for wine and cheese, so that I can organise social picnics at the park with friends.
 
-
 Glenn B:
+
 - As a support worker for special needs children, I want to be able to find a park nearby, so that I can keep children entertained.
 
 - As an active person, I want to be a able to find and review quality parks with appropriate sporting facilities with up-to-date images, so that I'm not left disappointed.
 
 - As a social person, I want to be able to find filter for a park with appropriate eating facilities, so that I do not have to drive around to find a park with the appropriate facilities.
 
-
 Henry Williams:
+
 - As a backpacker, I want to be able to search for beautiful parks with features that I am interested in so that I can avoid visiting parks that have nothing to attract me.
 
 - As a backpacker, I want to be able to find parks on the map with my current location so that I can save time on searching because local addresses make no sense to travelers.
-
 
 <!-- Show 2 versions of user stories 'shows evidence of user story revision and refinement' -->
 
@@ -213,7 +215,7 @@ List View
 List View Expanded with randomise wine and cheese picnic pairing and comments
 ![Image one of Desktop](./Resources/desktop-wireframe-f.png)
 List View Expanded with comment form and image upload
-![Image one of Desktop](./Resources/desktop-wireframe-g.png)
+![Image one of Desktop](./Resources/desktop-wireframe-g-feature-b.png)
 About View
 ![Image one of Desktop](./Resources/desktop-wireframe-h.png)
 Sign In View
