@@ -29,7 +29,7 @@ _It doesn't get much Gouda than that._
 
 - Landing Page is the Map View: allows for instant viewing of proximity to parks.
   - Navigation Header allows to switch to List View - Has markers of park locations
-  - Has modal popups on click of park locations
+  - Has model popups on click of park locations
   - Has drop down to select which type of park you want to select.
     ![The Novak Family picture](./Resources/desktop-wireframe-a-feature.png)
 - List View: lists the entire of park markers in an informative readable listicle.
@@ -150,6 +150,14 @@ The problem that Glenn have are two fold: <br />1. Finding the right park with r
 ## **Park Vic User Stories:**
 
 <!-- Show 2 versions of user stories 'shows evidence of user story revision and refinement' -->
+
+As Ramona, I want to be able to review parks with skate features and leave comments on it, so that I can share this information to other people in my community.
+
+As Ramona, I want to be able to search for my nearest skatepark on a map, so that I can save time between my busy schedule.
+
+As Ramona, I want to view different suggestions for wine and cheese, so that I can organise social picnics at the park with friends.
+
+As Ramona, I want to share images of my local skateparks with my community, so that I am able to distinguish local skatepark features for different skating sessions.
 
 ### [Katja Novak](<https://www.figma.com/file/InWmz7kkpj2u7o86HhEdsl/User-personas-(Community)?node-id=0%3A1>)
 
