@@ -151,14 +151,13 @@ The problem that Glenn have are two fold: <br />1. Finding the right park with r
 
 <!-- Show 2 versions of user stories 'shows evidence of user story revision and refinement' -->
 
-
 As Ramona, I want to be able to review parks with skate features and leave comments on it, so that I can share this information to other people in my community.
 
 As Ramona, I want to be able to search for my nearest skatepark on a map, so that I can save time between my busy schedule.
 
 As Ramona, I want to view different suggestions for wine and cheese, so that I can organise social picnics at the park with friends.
 
-As Ramona, I want to 
+As Ramona, I want to share images of my local skateparks with my community, so that I am able to distinguish local skatepark features for different skating sessions.
 
 ### [Katja Novak](<https://www.figma.com/file/InWmz7kkpj2u7o86HhEdsl/User-personas-(Community)?node-id=0%3A1>)
 
