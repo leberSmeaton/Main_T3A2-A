@@ -170,7 +170,7 @@ Glenn B:
 - As a social person, I want to be able to find filter for a park with appropriate eating facilities, so that I do not have to drive around to find a park with the appropriate facilities.
 
 <!-- Show 2 versions of user stories 'shows evidence of user story revision and refinement' -->
-
+## **Park Vic User Personas:**
 ### [Katja Novak](<https://www.figma.com/file/InWmz7kkpj2u7o86HhEdsl/User-personas-(Community)?node-id=0%3A1>)
 
 ![Image one of Katja Novak user story](./Resources/UserStory_Katja_1.png)
