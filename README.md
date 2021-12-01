@@ -39,7 +39,8 @@ _It doesn't get much Gouda than that._
   - Special Picnic Victoria feature is that users can pair a wine and or cheese with their park visit by clicking the randomise buttons. This shows the random options.
   - if logged in the user can also rate or make comments to the parks selected.
     ![The Novak Family picture](./Resources/desktop-wireframe-f-feature.png)
-    ![The Novak Family picture](./Resources/desktop-wireframe-g-feature-b.png)
+  - Authentication of login allows USERS to have access to RATING feature on Parks and COMMENTS w/ image upload feature.
+    ![wireframe feature](./Resources/desktop-wireframe-g-feature-b.png)
 - About View: gives details about what the app does, who it is by and why.
   - Other feature includes details about our Picnic Victoria partnership with wine and cheese producers.
     ![The Novak Family picture](./Resources/desktop-wireframe-h-feature.png)
@@ -122,18 +123,18 @@ The problem that Glenn have are two fold: <br />1. Finding the right park with r
 
 #### **Tech Stack:**
 
-| Application and Data | Utilities  | DevOps  | Business Tools |
-| -------------------- | ---------- | ------- | -------------- |
-| HTML 5               | Postman    | GitHub  | Trello         |
-| CSS                  | JWT/Devise | Git     | G Suite        |
-| JavaScript ES6       | NPM        | VS Code | Discord        |
-| Rails                | Ruby Gems  |         | Figma          |
+| Application and Data | Utilities      | DevOps  | Business Tools |
+| -------------------- | -------------- | ------- | -------------- |
+| HTML 5               | Postman        | GitHub  | Trello         |
+| CSS                  | JWT/Devise     | Git     | G Suite        |
+| JavaScript ES6       | NPM            | VS Code | Discord        |
+| Rails                | Ruby Gems      |         | Figma          |
 | React                | - cancando gem |         | Google Fonts   |
-| PostgreSQL           | RSPEC      |         | Zoom           |
-| Amazon S3            | Jest       |         |                |
-| Heroku               | Google API |         |                |
-| Netlify              |            |         |                |
-|                      |            |         |                |
+| PostgreSQL           | RSPEC          |         | Zoom           |
+| Amazon S3            | Jest           |         |                |
+| Heroku               | Google API     |         |                |
+| Netlify              |                |         |                |
+|                      |                |         |                |
 
 <br />
 
@@ -148,13 +149,15 @@ The problem that Glenn have are two fold: <br />1. Finding the right park with r
 ![app_architecture_diagram](./Resources/aad.png)
 
 ## **Park Vic User Stories:**
+
 The Novak Family
+
 - As **stay at home** mum Katja Novak, **I need an easy wine and cheese option** whilst I watch my children at the park, as **being a mum is hard work and I deserve a treat**.
 
 - As **working dad** Phil Novak, I want to make sure my **park is the right type** and has **all the features I need** for my family, so I can ensure **family time is stress free** and **maximum time is spent together**.
 
-
 Ramona Rodriguez
+
 - As Ramona, I want to be able to review parks with skate features and leave comments on it, so that I can share this information to other people in my community.
 
 - As Ramona, I want to be able to search for my nearest skatepark on a map, so that I can save time between my busy schedule.
