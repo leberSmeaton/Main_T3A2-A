@@ -31,29 +31,29 @@ _It doesn't get much Gouda than that._
   - Navigation Header allows to switch to List View - Has markers of park locations
   - Has model popups on click of park locations
   - Has drop down to select which type of park you want to select.
-    ![wireframe feature](./Resources/desktop-wireframe-a-feature.png)
+    ![wireframe feature](./docs/desktop-wireframe-a-feature.png)
 - List View: lists the entire of park markers in an informative readable listicle.
   - cards on click expand to show comments and any additional imagery if present.
   - Users can reply if logged in.
   - Authorisation will be requested.
   - Special Picnic Victoria feature is that users can pair a wine and or cheese with their park visit by clicking the randomise buttons. This shows the random options.
   - if logged in the user can also rate or make comments to the parks selected.
-    ![The Novak Family picture](./Resources/desktop-wireframe-f-feature.png)
+    ![The Novak Family picture](./docs/desktop-wireframe-f-feature.png)
   - Authentication of login allows USERS to have access to RATING feature on Parks and COMMENTS w/ image upload feature.
-    ![wireframe feature](./Resources/desktop-wireframe-g-feature-b.png)
+    ![wireframe feature](./docs/desktop-wireframe-g-feature-b.png)
 - About View: gives details about what the app does, who it is by and why.
   - Other feature includes details about our Picnic Victoria partnership with wine and cheese producers.
-    ![wireframe feature](./Resources/desktop-wireframe-h-feature.png)
+    ![wireframe feature](./docs/desktop-wireframe-h-feature.png)
 - Sign In / Sign Up View: Allows Users and Admin to sign up and sign in.
   - User Sign up and Sign in allows for user authorisation, accessing certain features of the app such as star rating, park commenting and image upload.
   - Authentication for when users sign in includes, email as identifier, password, optional profile pic.
   - Authorisation occurs for features that have CRUD functionality for all users and admin. USers have access to only their commentary. Admin has access to ALL USERS CRUD functionality, including the ability to _hide_ or _delete_ posts that don't meet standard.  
-    ![wireframe feature](./Resources/desktop-wireframe-i-feature.png)
-    ![wireframe feature](./Resources/desktop-wireframe-j-feature.png)
+    ![wireframe feature](./docs/desktop-wireframe-i-feature.png)
+    ![wireframe feature](./docs/desktop-wireframe-j-feature.png)
 
 #### **Target Audience:**
 
-![The Novak Family picture](./Resources/TheNovaks.jpg)
+![The Novak Family picture](./docs/TheNovaks.jpg)
 **Who:** The Novaks. 'The Nuclear Family, with dog'. Two parents. Two Children. One puppy. <br />
 **Age:** Parents are late twenties to late thirties, 28-38. One child is of primary school age 7, and one two year old. <br />
 **Occupation:** One stay at home parent, the other working 9-5. Children are young learners.<br />
@@ -69,7 +69,7 @@ Their ultimate park is one that has a toilet, cover from the sun, a playground a
 
 ---
 
-![Glenn B](./Resources/glenn.jpeg)
+![Glenn B](./docs/glenn.jpeg)
 **Who:** Glenn B. Single male<br />
 **Age:** 25 years old<br />
 **Occupation:** Music teacher and support worker for special needs children. Living with another housemate<br />
@@ -85,7 +85,7 @@ The problem that Glenn have are two fold: <br />1. Finding the right park with r
 
 ---
 
-![image](./Resources/HenryW.jpg)
+![image](./docs/HenryW.jpg)
 <br />
 **Who:** Henry Williams<br />
 **Age:** 20 years old<br />
@@ -103,7 +103,7 @@ The problem that Glenn have are two fold: <br />1. Finding the right park with r
 
 ---
 
-![image](Resources/ramona-skater.jpg)
+![image](docs/ramona-skater.jpg)
 <br />
 **Who:** Ramona Rodriguez<br />
 **Age:** 28<br />
@@ -142,11 +142,11 @@ The problem that Glenn have are two fold: <br />1. Finding the right park with r
 
 <!-- Show at least 2 dataflow diagrams that follow a set dataflow convention -->
 
-![app_architecture_diagram](./Resources/dataflow_diagram.png)
+![app_architecture_diagram](./docs/dataflow_diagram.png)
 
 ## **Application Architecture Diagram:**
 
-![app_architecture_diagram](./Resources/aad.png)
+![app_architecture_diagram](./docs/aad.png)
 
 ## **Park Vic User Stories:**
 
@@ -184,23 +184,23 @@ Henry Williams:
 ## **Park Vic User Personas:**
 ### [Katja Novak](<https://www.figma.com/file/InWmz7kkpj2u7o86HhEdsl/User-personas-(Community)?node-id=0%3A1>)
 
-![Image one of Katja Novak user story](./Resources/UserStory_Katja_1.png)
-![Image two of Katja Novak user story](./Resources/UserStory_Katja_2.png)
+![Image one of Katja Novak user story](./docs/UserStory_Katja_1.png)
+![Image two of Katja Novak user story](./docs/UserStory_Katja_2.png)
 
 ### [Glenn B](https://www.figma.com/file/2DryqFWrEVPYJMFjB7luzn/A-user-persona?node-id=0%3A1)
 
-![Image one of ](./Resources/userStory-glenn1.png)
-![Image two of ](./Resources/userStory-glenn2.1.png)
+![Image one of ](./docs/userStory-glenn1.png)
+![Image two of ](./docs/userStory-glenn2.1.png)
 
 ### [Ramona Rodriguez](https://www.figma.com/file/dN11zwW6TYaPncwCPeT7pu/Skater-Girl-User-Story?node-id=0%3A1)
 
-![Image one of ](Resources/UserStory-Ramona1.jpg)
-![Image two of ](Resources/UserStory-Ramona2.jpg)
+![Image one of ](docs/UserStory-Ramona1.jpg)
+![Image two of ](docs/UserStory-Ramona2.jpg)
 
 ### [Henry Williams](https://www.figma.com/file/Ix0i5H4wdlQMbqRtiHGorb/User-personas---Henry-Williams?node-id=0%3A1)
 
-![Image one of ](./Resources/UserStory_Henry_1.png)
-![Image two of ](./Resources/UserStory_Henry_2.png)
+![Image one of ](./docs/UserStory_Henry_1.png)
+![Image two of ](./docs/UserStory_Henry_2.png)
 
 ## **Device Wireframes:**
 
@@ -209,74 +209,74 @@ Henry Williams:
 ### [Picnic Victoria Wireframe View](https://www.figma.com/file/1NgAVHDgzPuJq9B8WJswjZ/Wireframes?node-id=0%3A1)
 
 Landing View
-![Image one of Desktop](./Resources/desktop-wireframe-a.png)
+![Image one of Desktop](./docs/desktop-wireframe-a.png)
 Landing View Zoomed with type of park selected
-![Image one of Desktop](./Resources/desktop-wireframe-b.png)
+![Image one of Desktop](./docs/desktop-wireframe-b.png)
 List View
-![Image one of Desktop](./Resources/desktop-wireframe-c.png)
+![Image one of Desktop](./docs/desktop-wireframe-c.png)
 List View Expanded with randomise wine and cheese picnic pairing and comments
-![Image one of Desktop](./Resources/desktop-wireframe-f.png)
+![Image one of Desktop](./docs/desktop-wireframe-f.png)
 List View Expanded with comment form and image upload
-![Image one of Desktop](./Resources/desktop-wireframe-g-feature-b.png)
+![Image one of Desktop](./docs/desktop-wireframe-g-feature-b.png)
 About View
-![Image one of Desktop](./Resources/desktop-wireframe-h.png)
+![Image one of Desktop](./docs/desktop-wireframe-h.png)
 Sign In View
-![Image one of Desktop](./Resources/desktop-wireframe-i.png)
+![Image one of Desktop](./docs/desktop-wireframe-i.png)
 Sign Up View
-![Image one of Desktop](./Resources/desktop-wireframe-j.png)
+![Image one of Desktop](./docs/desktop-wireframe-j.png)
 
 ---
 
 Landing view - Tablet
-![Image one of Tablet](Resources/tablet-wireframes/Tablet-Landing.png)
+![Image one of Tablet](docs/tablet-wireframes/Tablet-Landing.png)
 Hamburger menu - Tablet
-![Image one of Tablet](Resources/tablet-wireframes/Tablet-Hamburger-Menu.png)
+![Image one of Tablet](docs/tablet-wireframes/Tablet-Hamburger-Menu.png)
 List - Tablet
-![Image one of Tablet](Resources/tablet-wireframes/Tablet-List.png)
+![Image one of Tablet](docs/tablet-wireframes/Tablet-List.png)
 Comment on a park
-![Image one of Tablet](Resources/tablet-wireframes/Tablet-List-Comments-Part1.png)
-![Image one of Tablet](Resources/tablet-wireframes/Tablet-List-Comments-Part2.png)
+![Image one of Tablet](docs/tablet-wireframes/Tablet-List-Comments-Part1.png)
+![Image one of Tablet](docs/tablet-wireframes/Tablet-List-Comments-Part2.png)
 Sign In - Tablet
-![Image one of Tablet](Resources/tablet-wireframes/Tablet-SignIn.png)
+![Image one of Tablet](docs/tablet-wireframes/Tablet-SignIn.png)
 Sign Up - Tablet
-![Image one of Tablet](Resources/tablet-wireframes/Tablet-SignUp.png)
+![Image one of Tablet](docs/tablet-wireframes/Tablet-SignUp.png)
 About - Tablet
-![Image one of Tablet](Resources/tablet-wireframes/Tablet-About.png)
+![Image one of Tablet](docs/tablet-wireframes/Tablet-About.png)
 
 ---
 
 Landing view - Mobile<br />
-![Image one of Mobile](./Resources/mobile-landing.png)<br />
+![Image one of Mobile](./docs/mobile-landing.png)<br />
 Hamburger menu - Mobile<br />
-![Image one of Mobile](./Resources/mobile-hamburger_menu.png)<br />
+![Image one of Mobile](./docs/mobile-hamburger_menu.png)<br />
 List - Mobile<br />
-![Image one of Mobile](./Resources/mobile-list.png)<br />
+![Image one of Mobile](./docs/mobile-list.png)<br />
 Comment on a park<br />
-![Image one of Mobile](./Resources/mobile-post_comment1.png)
-![Image one of Mobile](./Resources/mobile-post_comment2.png)<br />
+![Image one of Mobile](./docs/mobile-post_comment1.png)
+![Image one of Mobile](./docs/mobile-post_comment2.png)<br />
 Sign In - Mobile<br />
-![Image one of Mobile](./Resources/mobile-signin.png)<br />
+![Image one of Mobile](./docs/mobile-signin.png)<br />
 Sign Up - Mobile<br />
-![Image one of Mobile](./Resources/mobile-signup.png)<br />
+![Image one of Mobile](./docs/mobile-signup.png)<br />
 About - Mobile<br />
-![Image one of Mobile](./Resources/mobile-about.png)<br />
+![Image one of Mobile](./docs/mobile-about.png)<br />
 
 ---
 
 Landing view - Fold Mobile <br />
-![Image one of Mobile](./Resources/Landing_Fold.png)<br />
+![Image one of Mobile](./docs/Landing_Fold.png)<br />
 Hamburger menu - Fold Mobile <br />
-![Image one of Mobile](./Resources/Menu_Fold.png)<br />
+![Image one of Mobile](./docs/Menu_Fold.png)<br />
 List - Fold Mobile <br />
-![Image one of Mobile](./Resources/List_Fold.png)<br />
+![Image one of Mobile](./docs/List_Fold.png)<br />
 Comment on a park - Fold Mobile <br />
-![Image one of Mobile](./Resources/Comment_Fold.png)<br />
+![Image one of Mobile](./docs/Comment_Fold.png)<br />
 Sign In - Fold Mobile <br />
-![Image one of Mobile](./Resources/SignIn_Fold.png)<br />
+![Image one of Mobile](./docs/SignIn_Fold.png)<br />
 Sign Up - Fold Mobile <br />
-![Image one of Mobile](./Resources/SignUp_Fold.png)<br />
+![Image one of Mobile](./docs/SignUp_Fold.png)<br />
 About - Fold Mobile <br />
-![Image one of Mobile](./Resources/About_Fold.png)
+![Image one of Mobile](./docs/About_Fold.png)
 <br />
 
 ## **Project Management:**
@@ -293,22 +293,22 @@ Kaban features include:
 
 - Card rating system: low, medium, high.
 - Adding members to cards.
-  ![Image one kaban style projectment](./Resources/Kaban_detail_1.png)
+  ![Image one kaban style projectment](./docs/Kaban_detail_1.png)
 - Watching necessary cards,
 - Comments,
 - attachments to ensure links to other softwares are easily accessible,
-  ![Image one kaban style projectment](./Resources/Kaban_detail_2.png)
+  ![Image one kaban style projectment](./docs/Kaban_detail_2.png)
 - Checklists: Completed/Code Reviewed/Raised Pull Request,
-  ![Image one kaban style projectment](./Resources/Kaban_detail_3.png)
+  ![Image one kaban style projectment](./docs/Kaban_detail_3.png)
 
 <br />
 
 History of project movement.
-![Image one kaban style projectment](./Resources/Kaban_start_1.png)
-![Image two kaban style projectment](./Resources/Kaban_start_2.png)
-![Image three kaban style projectment](./Resources/Kaban_start_3.png)
-![Image four kaban style projectment](./Resources/Kaban_middle_1.png)
-![Image four kaban style projectment](./Resources/Kaban_middle_2.png)
-![Image four kaban style projectment](./Resources/Kaban_end_1.png)
-![Image four kaban style projectment](./Resources/Kaban_end_2.png)
-![Image four kaban style projectment](./Resources/Kaban_end_3.png)
+![Image one kaban style projectment](./docs/Kaban_start_1.png)
+![Image two kaban style projectment](./docs/Kaban_start_2.png)
+![Image three kaban style projectment](./docs/Kaban_start_3.png)
+![Image four kaban style projectment](./docs/Kaban_middle_1.png)
+![Image four kaban style projectment](./docs/Kaban_middle_2.png)
+![Image four kaban style projectment](./docs/Kaban_end_1.png)
+![Image four kaban style projectment](./docs/Kaban_end_2.png)
+![Image four kaban style projectment](./docs/Kaban_end_3.png)
