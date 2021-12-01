@@ -39,8 +39,7 @@ _It doesn't get much Gouda than that._
   - Special Picnic Victoria feature is that users can pair a wine and or cheese with their park visit by clicking the randomise buttons. This shows the random options.
   - if logged in the user can also rate or make comments to the parks selected.
     ![wireframe feature](./Resources/desktop-wireframe-f-feature.png)
-  - Authentication of login allows USERS to have access to RATING feature on Parks and COMMENTS w/ image upload feature.
-    ![wireframe feature](./Resources/desktop-wireframe-g.png)
+    ![wireframe feature](./Resources/desktop-wireframe-g-feature.png)
 - About View: gives details about what the app does, who it is by and why.
   - Other feature includes details about our Picnic Victoria partnership with wine and cheese producers.
     ![wireframe feature](./Resources/desktop-wireframe-h-feature.png)
