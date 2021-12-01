@@ -148,10 +148,18 @@ The problem that Glenn have are two fold: <br />1. Finding the right park with r
 ![app_architecture_diagram](./Resources/aad.png)
 
 ## **Park Vic User Stories:**
-
+The Novak Family
 - As **stay at home** mum Katja Novak, **I need an easy wine and cheese option** whilst I watch my children at the park, as **being a mum is hard work and I deserve a treat**.
 
 - As **working dad** Phil Novak, I want to make sure my **park is the right type** and has **all the features I need** for my family, so I can ensure **family time is stress free** and **maximum time is spent together**.
+
+
+Ramona Rodriguez
+- As Ramona, I want to be able to review parks with skate features and leave comments on it, so that I can share this information to other people in my community.
+
+- As Ramona, I want to be able to search for my nearest skatepark on a map, so that I can save time between my busy schedule.
+
+- As Ramona, I want to view different suggestions for wine and cheese, so that I can organise social picnics at the park with friends.
 
 <!-- Show 2 versions of user stories 'shows evidence of user story revision and refinement' -->
 
