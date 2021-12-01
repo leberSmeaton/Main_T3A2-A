@@ -128,10 +128,10 @@ The problem that Glenn have are two fold: <br />1. Finding the right park with r
 | CSS                  | JWT/Devise | Git     | G Suite        |
 | JavaScript ES6       | NPM        | VS Code | Discord        |
 | Rails                | Ruby Gems  |         | Figma          |
-| React                | Google API |         | Google Fonts   |
+| React                | - cancando gem |         | Google Fonts   |
 | PostgreSQL           | RSPEC      |         | Zoom           |
 | Amazon S3            | Jest       |         |                |
-| Heroku               |            |         |                |
+| Heroku               | Google API |         |                |
 | Netlify              |            |         |                |
 |                      |            |         |                |
 
