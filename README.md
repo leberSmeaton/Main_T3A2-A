@@ -181,7 +181,9 @@ Henry Williams:
 - As a **backpacker**, I want to be able to find parks on the map with my **current location**, so that I can **save time** on searching because **local addresses make no sense to travelers**.
 
 <!-- Show 2 versions of user stories 'shows evidence of user story revision and refinement' -->
+
 ## **Park Vic User Personas:**
+
 ### [Katja Novak](<https://www.figma.com/file/InWmz7kkpj2u7o86HhEdsl/User-personas-(Community)?node-id=0%3A1>)
 
 ![Image one of Katja Novak user story](./docs/UserStory_Katja_1.png)
