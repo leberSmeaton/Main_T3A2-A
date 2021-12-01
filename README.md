@@ -149,6 +149,10 @@ The problem that Glenn have are two fold: <br />1. Finding the right park with r
 
 ## **Park Vic User Stories:**
 
+- As **stay at home** mum Katja Novak, **I need an easy wine and cheese option** whilst I watch my children at the park, as **being a mum is hard work and I deserve a treat**.
+
+- As **working dad** Phil Novak, I want to make sure my **park is the right type** and has **all the features I need** for my family, so I can ensure **family time is stress free** and **maximum time is spent together**.
+
 <!-- Show 2 versions of user stories 'shows evidence of user story revision and refinement' -->
 
 ### [Katja Novak](<https://www.figma.com/file/InWmz7kkpj2u7o86HhEdsl/User-personas-(Community)?node-id=0%3A1>)
