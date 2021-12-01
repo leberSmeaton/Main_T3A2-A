@@ -142,7 +142,7 @@ The problem that Glenn have are two fold: <br />1. Finding the right park with r
 
 <!-- Show at least 2 dataflow diagrams that follow a set dataflow convention -->
 
-![app_architecture_diagram](./Resources/Dataflow_Diagram_1.png)
+![app_architecture_diagram](./Resources/dataflow_diagram.png)
 
 ## **Application Architecture Diagram:**
 
@@ -150,33 +150,35 @@ The problem that Glenn have are two fold: <br />1. Finding the right park with r
 
 ## **Park Vic User Stories:**
 
-The Novak Family
+The Novak Family:
 
 - As **stay at home** mum Katja Novak, **I need an easy wine and cheese option** whilst I watch my children at the park, as **being a mum is hard work and I deserve a treat**.
 
 - As **working dad** Phil Novak, I want to make sure my **park is the right type** and has **all the features I need** for my family, so I can ensure **family time is stress free** and **maximum time is spent together**.
 
-Ramona Rodriguez
+- As an **everyday Mum** Katja Novak, I want to **offer commentary** across the platforms I use as a **‘mommy blogger’**, so I can **influence other mums** and they can **get the most from the app like me**.
 
-- As Ramona, I want to be able to review parks with skate features and leave comments on it, so that I can share this information to other people in my community.
+Ramona Rodriguez:
 
-- As Ramona, I want to be able to search for my nearest skatepark on a map, so that I can save time between my busy schedule.
+- As **Ramona**, I want to be able to **review parks with skate features** and leave comments on it, so that I can **share this information** to other people in my **community**.
 
-- As Ramona, I want to view different suggestions for wine and cheese, so that I can organise social picnics at the park with friends.
+- As **Ramona**, I want to be able to **search for my nearest skatepark** on a map, so that I can **save time** between my busy schedule.
+
+- As **Ramona**, I want to view different suggestions for **wine and cheese**, so that **I can organise social picnics** at the park with friends.
 
 Glenn B:
 
-- As a support worker for special needs children, I want to be able to find a park nearby, so that I can keep children entertained.
+- As a **support worker for special needs children**, I want to be able to **find a park nearby**, so that I can **keep children entertained**.
 
-- As an active person, I want to be a able to find and review quality parks with appropriate sporting facilities with up-to-date images, so that I'm not left disappointed.
+- As an **active person**, I want to be a able to **find and review** quality parks **with appropriate sporting facilities with up-to-date images**, so that I'm **not left disappointed**.
 
-- As a social person, I want to be able to find filter for a park with appropriate eating facilities, so that I do not have to drive around to find a park with the appropriate facilities.
+- As a **social person**, I want to be able to **find filter** for a park with **appropriate eating facilities**, so that I do not have to **waste time** driving around to find a park with the appropriate facilities.
 
 Henry Williams:
 
-- As a backpacker, I want to be able to search for beautiful parks with features that I am interested in so that I can avoid visiting parks that have nothing to attract me.
+- As a **backpacker**, I want to be able to **search for beautiful parks** with features that I am interested in, so that I can avoid visiting parks that have **nothing to attract me**.
 
-- As a backpacker, I want to be able to find parks on the map with my current location so that I can save time on searching because local addresses make no sense to travelers.
+- As a **backpacker**, I want to be able to find parks on the map with my **current location**, so that I can **save time** on searching because **local addresses make no sense to travelers**.
 
 <!-- Show 2 versions of user stories 'shows evidence of user story revision and refinement' -->
 ## **Park Vic User Personas:**
