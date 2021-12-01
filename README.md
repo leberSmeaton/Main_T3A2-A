@@ -156,14 +156,6 @@ USER STORIES:
 <!-- Insert your one liners above the Personas.
 As Max, I want to invite my friends, so we can enjoy this service together. -->
 
-As **stay at home** mum Katja Novak, **I need wine and cheese** whilst I watch my children at the park, as **being a mum is hard work and I deserve a treat**.
-
-As **working dad** Phil Novak, I want to make sure my **park is the right type** and has **all the features I need** for my family, so I can ensure **family time is stress free** and **maximum time is spent together**.
-
-As
-
-As
-
 ### [Katja Novak](<https://www.figma.com/file/InWmz7kkpj2u7o86HhEdsl/User-personas-(Community)?node-id=0%3A1>)
 
 ![Image one of Katja Novak user story](./Resources/UserStory_Katja_1.png)
