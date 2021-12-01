@@ -161,6 +161,14 @@ Ramona Rodriguez
 
 - As Ramona, I want to view different suggestions for wine and cheese, so that I can organise social picnics at the park with friends.
 
+
+Glenn B:
+- As a support worker for special needs children, I want to be able to find a park nearby, so that I can keep children entertained.
+
+- As an active person, I want to be a able to find and review quality parks with appropriate sporting facilities with up-to-date images, so that I'm not left disappointed.
+
+- As a social person, I want to be able to find filter for a park with appropriate eating facilities, so that I do not have to drive around to find a park with the appropriate facilities.
+
 <!-- Show 2 versions of user stories 'shows evidence of user story revision and refinement' -->
 
 ### [Katja Novak](<https://www.figma.com/file/InWmz7kkpj2u7o86HhEdsl/User-personas-(Community)?node-id=0%3A1>)
