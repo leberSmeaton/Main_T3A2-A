@@ -169,6 +169,13 @@ Glenn B:
 
 - As a social person, I want to be able to find filter for a park with appropriate eating facilities, so that I do not have to drive around to find a park with the appropriate facilities.
 
+
+Henry Williams:
+- As a backpacker, I want to be able to search for beautiful parks with features that I am interested in so that I can avoid visiting parks that have nothing to attract me.
+
+-As a backpacker, I want to be able to find parks on the map with my current location so that I can save time on searching because local addresses make no sense to travelers.
+
+
 <!-- Show 2 versions of user stories 'shows evidence of user story revision and refinement' -->
 
 ### [Katja Novak](<https://www.figma.com/file/InWmz7kkpj2u7o86HhEdsl/User-personas-(Community)?node-id=0%3A1>)
